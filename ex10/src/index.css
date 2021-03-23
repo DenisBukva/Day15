@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+#nav_bar {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+    margin-right: 10px;
+    list-style-type: none;
+    
+}
+#nav_bar .nav-links {
+    margin-right: 30px;
+    
+}
+ #nav_bar #sign_in {
+    text-decoration: none;
+    background-color: blue;
+    padding:3px;
+} 
+ #gmail {
+    padding:3px;
+    
+}
+#images {
+    padding:3px;
+}
+a {
+    text-decoration: none;
+} 
+#sign_in a {
+    text-decoration: none;
+    color:white;
+}  
+    
+    
+
+.google-image  {
+    
+    margin-top:100px; 
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    
+}
+.form-search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:20px;
+}
+#form-search {
+    padding-top:7px;
+    padding-bottom: 7px;
+    width: 500px;
+    border-radius: 20px;
+    border:1px solid #8d8d8d;
+}
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:20px;
+}
+#google_search {
+    margin-right: 10px;
+    border-radius:2px;
+    border:1px solid;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+#im_feeling_lucky {
+    margin-right: 10px;
+    border-radius:2px;
+    border:1px solid;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+footer {
+    background-color: #d3d3d3;
+    margin-top:260px;
+    height:53px;
+}
+footer #footer-left  {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    float: left;
+    
+    
+    
+}
+footer #footer-right {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    float:right;
+}
+#Advertising {
+    margin-right: 30px;
+    color:#d3d3d3;
+    text-align: center;
+    
+}
+#Business {
+    margin-right: 30px;
+    color:#d3d3d3;
+}
+#Privacy {
+    margin-right: 30px;
+    color:#d3d3d3;
+}
+#Terms {
+    margin-right: 30px;
+    color:#d3d3d3;
+}
+#About {
+    color:#d3d3d3;
+}
+#Settings {
+    margin-right: 30px;
+    color:#d3d3d3;
+}
